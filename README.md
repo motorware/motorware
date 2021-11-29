@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @motorware
-- 👀 I’m interested in motor control.
-- 📫 Feel free to contact me, support_AT_motorware.cn (please replace _AT_ with @)
+- 👀 I’m interested in motor control
+- 📫 Feel free to contact me, support@motorware.cn
 
 <!---
 motorware/motorware is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
